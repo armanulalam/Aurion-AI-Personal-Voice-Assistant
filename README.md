@@ -4,6 +4,7 @@ Aurion is a fully functional voice-controlled AI assistant built using Python.
 It listens to voice commands, speaks responses, fetches information, manages tasks, sets alarms/reminders, sends emails/WhatsApp messages, retrieves news, plays music, and much more — all hands-free. Moreover, this project converted to .exe file.
 
 This project integrates speech recognition, text-to-speech, Google Gemini AI, automations, and system interaction to create a smart desktop assistant.
+The video demo of this project here https://youtu.be/CMGtA0AO0j4?si=ceIGl5wff7PgSsO8
 
 ## 🚀 Features
 ### 🎤 Voice Interaction
